@@ -1,0 +1,5 @@
+com\kong\yygh\oss\service\FileService.class
+com\kong\yygh\oss\utils\ConstantOssPropertiesUtils.class
+com\kong\yygh\oss\controller\FileApiController.class
+com\kong\yygh\oss\ServiceOssApplication.class
+com\kong\yygh\oss\service\Impl\FileServiceImpl.class

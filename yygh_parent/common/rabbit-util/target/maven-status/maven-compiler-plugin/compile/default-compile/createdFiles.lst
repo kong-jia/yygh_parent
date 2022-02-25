@@ -1,0 +1,4 @@
+com\kong\common\rabbit\constant\MqConst.class
+com\kong\common\rabbit\service\RabbitService.class
+com\kong\common\rabbit\config\MQConfig.class
+com\kong\common\rabbit\config\RabbitMQConfig.class

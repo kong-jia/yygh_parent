@@ -1,0 +1,6 @@
+com\kong\yygh\msm\controller\LoginEmail.class
+com\kong\yygh\msm\utils\RandomUtil.class
+com\kong\yygh\msm\ServiceMsmApplication.class
+com\kong\yygh\msm\service\MailService.class
+com\kong\yygh\msm\service\Impl\MailServiceImpl.class
+com\kong\yygh\msm\receiver\MsmReceiver.class

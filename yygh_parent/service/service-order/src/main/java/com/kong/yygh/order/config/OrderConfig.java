@@ -1,0 +1,9 @@
+package com.kong.yygh.order.config;
+
+import org.mybatis.spring.annotation.MapperScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@MapperScan("com.kong.yygh.order.mapper")
+public class OrderConfig {
+}
